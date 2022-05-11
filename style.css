@@ -1,0 +1,112 @@
+body{
+    background-color: grey;
+    text-align: center;
+  }
+  
+
+ .img1 {
+    border-radius: 90px;
+    width: 200px;
+    height: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h1{
+    color: red;
+}
+
+.intro {
+    text-align: center;
+    position: relative;
+
+}
+
+.social {
+    text-align: center;
+}
+
+.space {
+    text-align: center;
+}
+.space1{
+    text-align: justify;
+}
+.hulot1{
+    text-align: justify;
+}
+.alien1{
+    text-align: justify;
+}
+
+.img2 {
+    float: left;
+    display: flex;
+    height: 150px;
+    width: 150px;
+}
+
+.img3 {
+    float: left;
+    display: flex;
+    height: 150px;
+    width: 150px;
+
+}
+
+.img4 {
+    float: left;
+    display: flex;
+    height: 150px;
+    width: 150px;
+
+}
+
+.hulot {
+    text-align: center;
+    justify-content: flex-end;
+}
+
+.alien {
+    text-align: center;
+}
+.link{
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  
+}
+.block1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    width: 500px;
+    text-align: center;
+    margin: 20px;
+    margin-left: 30%;
+
+}
+.block2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    width: 500px;
+    margin: 20px;
+    padding: 10px;
+    margin-left: 30%;
+}
+.block3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    width: 500px;
+    margin: 20 px;
+    margin-left: 30%;
+}

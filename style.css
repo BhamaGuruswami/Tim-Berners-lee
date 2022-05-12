@@ -5,12 +5,13 @@ body{
   
 
  .img1 {
-    border-radius: 90px;
+    border-radius: 180px;
     width: 200px;
     height: auto;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    border: 5px solid gray;
     
 }
 h1{
@@ -30,6 +31,7 @@ h1{
 .space {
     text-align: center;
 }
+
 .space1{
     text-align: justify;
 }
@@ -74,7 +76,7 @@ h1{
 .link{
     background-color: #f44336;
     color: white;
-    padding: 14px 25px;
+    padding: 12px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
